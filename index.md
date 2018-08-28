@@ -1,8 +1,11 @@
 
 # Mason Snyder's first CS193 Lab
 Favorite things:
+
 -Run by students
+
 -not alot of work
+
 -fun
 
 ## Welcome to GitHub Pages
